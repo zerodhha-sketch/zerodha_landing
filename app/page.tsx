@@ -1,5 +1,5 @@
 const APK_URL =
-  "https://expo.dev/artifacts/eas/m3Yrmy3aHszXKx27L6tJRp.apk";
+  "https://expo.dev/artifacts/eas/kyyfb58bdjVAAaCDrMtEek.apk";
 
 function DownloadButton({ className = "" }: { className?: string }) {
   return (
