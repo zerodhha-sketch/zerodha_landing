@@ -1,5 +1,5 @@
 const APK_URL =
-  "https://docs.google.com/uc?export=download&id=1w96TGhtmRHVHlV2RwkvRRGwbM0KRezmp";
+  "https://expo.dev/artifacts/eas/PN__M8XFJKntyzyuEyvSoGX8rHm68rGwH6AE_JoOyAU.apk";
 
 function DownloadButton({ className = "" }: { className?: string }) {
   return (
